@@ -1,144 +1,139 @@
-<!-- Banner Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=300&section=header&text=Sadeepa%20Lakshan&fontSize=90&fontAlignY=35&animation=fadeIn&desc=Designer%20•%20Developer%20•%20Creator&descAlignY=55&descAlign=50" width="100%" alt="Sadeepa Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:1E293B&height=220&section=header&text=Sadeepa%20Lakshan&fontSize=60&fontColor=FFFFFF&fontAlignY=42&desc=Graphic%20Designer%20%20%7C%20%20Web%20Developer%20%20%7C%20Tech%20Creator&descAlignY=62&descSize=16" width="100%" />
 </div>
 
-<!-- Navigation Bar -->
+<br/>
+
 <div align="center">
-  <h3>
-    <a href="#-about-me">👨‍💻 About Me</a> &nbsp;|&nbsp; 
-    <a href="#-tech-stack">🛠 Tech Stack</a> &nbsp;|&nbsp; 
-    <a href="#-my-services">🚀 What I Do</a> &nbsp;|&nbsp; 
-    <a href="https://www.youtube.com/c/SLSadeepaTec">📺 YouTube</a>
-  </h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Crafting+Visuals+%26+Code;Building+Modern+Web+Experiences;Exploring+Python%2C+C%2B%2B+%26+C%23;Blogger+%26+Tech+Reviewer+%40+Sadeepa+Tech" alt="Typing Animation" />
 </div>
+
+<br/>
 
 ---
 
-<!-- Dashboard Section -->
-<table align="center">
-  <tr>
-    <td align="left" width="60%">
-      <h3>👋 Hi, I'm Sadeepa!</h3>
-      <p>
-        I am a <b>Graphic Designer</b> and <b>Web Developer</b> based in Sri Lanka.
-      </p>
-      <p>
-        I specialize in creating stunning visuals using <b>Adobe Creative Cloud</b> and building the web with core technologies like <b>HTML, CSS, and JavaScript</b>. I am also exploring <b>AI</b> using Python.
-      </p>
-      <br/>
-       <!-- Typing Effect -->
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=4A00E0&width=400&lines=Graphic+Design+%26+UI%2FUX;Web+Development+(HTML%2FCSS%2FJS);Python+Programming+%26+AI;Content+Creator+%40+SL+Sadeepa+Tec" alt="Typing SVG" />
-      </a>
-      <br/>
-      <br/>
-      <!-- Social Buttons -->
-      <a href="https://www.linkedin.com/in/sadeepalakshan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-      <a href="https://www.youtube.com/c/SLSadeepaTec"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
-      <a href="mailto:sadeepalakshan@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
-    </td>
-    <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+### 👨‍💻 About Me
 
----
+Hey, I'm **Sadeepa Lakshan** — a Graphic Designer, Web Developer, and Content Creator based in Sri Lanka.
 
-<!-- Tech Stack Section (Updated to your specific request) -->
-## 🛠 Tech Stack & Tools
+I specialize in creating clean visuals with **Adobe Creative Cloud** and building responsive websites using **HTML, CSS & JavaScript**.  
+I’m also skilled in **Python, C++, and C#**, and continuously exploring Artificial Intelligence.
+
+Besides coding and design, I’m a **Blogger** and **Tech Reviewer**.  
+I create content on my YouTube channel where I review tech products, share tutorials, and help people learn technology in a simple way.
+
+<br/>
 
 <div align="center">
-  
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🌐 Web Dev</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🤖 AI & Code</h3>
-      <img src="https://skillicons.dev/icons?i=python,js" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🎨 Design & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=ps,ai,pr,github,vscode" />
-      <br/>
-      <!-- Adding MS Office as Badges since skillicons doesn't have a group icon for it -->
-      <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" />
-    </td>
-  </tr>
-</table>
+
+  <a href="https://www.linkedin.com/in/sadeepa-lakshan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@sadeepatech">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://t.me/SADEEPA_TECH">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://whatsapp.com/channel/0029VbD0ZsEA2pLKPEYSQd2w">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://slsadeepatec.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+  <a href="https://sadeepatech.github.io/SADEEPA-TECH-landing-page/">
+    <img src="https://img.shields.io/badge/Website-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 
 </div>
 
+<br/>
+
 ---
 
-<!-- What I Do Grid -->
-## 🚀 What I Do
+### 🛠 Tech Stack
+
+<div align="center">
+
+#### Web Development
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+#### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js&theme=dark" />
+
+#### Design & Tools
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,github,vscode&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobe&logoColor=white" />
+<img src="https://img.shields.io/badge/Blogging-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+
+</div>
+
+<br/>
+
+---
+
+### 🚀 What I Do
 
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/3159/3159310.png" width="50px" alt="Design"/>
+    <td align="center" width="25%" valign="top">
       <br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/3159/3159310.png" width="48" />
+      <br/><br/>
       <b>Graphic Design</b>
-      <br/>
-      Professional photo editing, vector art, and video editing using Photoshop, Illustrator, and Premiere Pro.
+      <br/><br/>
+      <p align="left">
+        Professional photo editing, branding, vector art, and video editing using Photoshop, Illustrator & Premiere Pro.
+      </p>
     </td>
-    <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="50px" alt="Web"/>
+    <td align="center" width="25%" valign="top">
       <br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="48" />
+      <br/><br/>
       <b>Web Development</b>
-      <br/>
-      Creating responsive websites using pure HTML, CSS, and JavaScript.
+      <br/><br/>
+      <p align="left">
+        Creating clean, fast, and fully responsive websites using pure HTML, CSS, and JavaScript.
+      </p>
     </td>
-    <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="50px" alt="AI"/>
+    <td align="center" width="25%" valign="top">
       <br/>
-      <b>Python & AI</b>
+      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="48" />
+      <br/><br/>
+      <b>Programming</b>
+      <br/><br/>
+      <p align="left">
+        Building applications and exploring AI using Python, C++, and C#.
+      </p>
+    </td>
+    <td align="center" width="25%" valign="top">
       <br/>
-      Developing scripts and exploring Artificial Intelligence using Python.
+      <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="48" />
+      <br/><br/>
+      <b>Content Creation</b>
+      <br/><br/>
+      <p align="left">
+        Tech reviews, tutorials, and blogging to help people learn technology easily.
+      </p>
     </td>
   </tr>
 </table>
 </div>
 
+<br/>
+
 ---
 
-<!-- GitHub Analytics -->
-## 📊 GitHub Analytics
-
 <div align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=sadeepas&theme=flat&no-frame=true&column=7&margin-w=15" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=80&section=footer&text=Let's%20Build%20Something%20Great&fontSize=24&fontColor=FFFFFF&fontAlignY=55" width="100%" />
+  
   <br/><br/>
   
-  <!-- Stats Cards -->
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sadeepas&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeepas&layout=compact&theme=dracula&hide_border=true&langs_count=5" height="180" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Animated Contribution Snake -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeepas&theme=dracula&hide_border=true" alt="Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadeepas&bg_color=282a36&color=bd93f9&line=bd93f9&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Let's%20Create!&fontSize=30&fontAlignY=50" width="100%"/>
-  <br/>
-  <p>Made with ❤️ by Sadeepa Lakshan</p>
+  <b>Made with 💙 by Sadeepa Lakshan</b><br/>
+  <sub>Open to collaborations & new opportunities</sub>
 </div>
